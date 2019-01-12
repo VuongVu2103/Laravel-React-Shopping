@@ -1,0 +1,13 @@
+export const AUTH_LOGIN = 'AUTH_LOGIN';
+export const AUTH_CHECK = 'AUTH_CHECK';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';
+
+export const AUTH_ADMIN_LOGIN = 'AUTH_ADMIN_LOGIN';
+export const AUTH_ADMIN_CHECK = 'AUTH_ADMIN_CHECK';
+export const AUTH_ADMIN_LOGOUT = 'AUTH_ADMIN_LOGOUT';
+
+export const FETCH_PRODUCTS = 'FETCH_PRODUCTS';
+export const ADD_TO_CART = "ADD_TO_CART";
+export const CHECKOUT_PRODUCT = "CHECKOUT_PRODUCT";
+export const DELETE_PRODUCT = "DELETE_PRODUCT";
+export const FILTER_TABLE = 'FILTER_TABLE';
