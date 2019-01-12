@@ -1,7 +1,7 @@
-This is simple React Web Application 
+# This is simple React Web Application 
 
-This project was 
-. Bootstrapped with [create-react-app](https://github.com/facebook/create-react-app) 
+## This project was 
+. Bootstrapped with [React - Redux](https://github.com/facebook/create-react-app)
 
 . Laravel (5.5) with jwt-authentication.
 
@@ -12,45 +12,45 @@ This project was
 ## Setup
 
 
-.First, clone this project:
+. First, clone this project:
 
 > $ git clone THIS_REPO_URL 
 
 
-.Then install the dependencies:
+. Then install the dependencies:
 
 > $ npm install
 
 
-.Run development server:
+. Run development server:
 
 > $ php artisan serve 
 
 ## Usage
 
-1.Rename .env.example to .env
+1. Rename .env.example to .env
 
-2.Update DB_HOST, DB_DATABASE, DB_USERNAME, DB_PASSWORD, and Social IDs in .env file to yours.
+2. Update DB_HOST, DB_DATABASE, DB_USERNAME, DB_PASSWORD, and Social IDs in .env file to yours.
 
-3.npm install
+3. npm install
 
-4.In command line :
+4. In command line :
 
   * composer update
   
   * php artisan migrate
 
-5.npm run dev 
+5. npm run dev 
 
 ## To-Do list :
 
-.User registration => Done
+. User registration => Done
 
-.User login => Done
+. User login => Done
 
-.social login => Done (Facebook, Google)
+. social login => Done (Facebook, Google)
 
-.Products => done
+. Products => done
 
 . Admin => done
 
