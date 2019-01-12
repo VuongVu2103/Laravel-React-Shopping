@@ -1,0 +1,89 @@
+status:
+{
+	_id:
+	status_id:
+	name:
+}
+users:
+{
+	_id:
+	username:
+	password:
+	email:
+}
+customers:
+{
+	_id:
+	username:
+	password:
+	firstname:
+	lastname:
+	email:
+	phone: [ , , ]
+	address: [ , , ]
+	note:
+}
+brands:
+{
+	_id:
+	brand_id:
+	name:
+}
+-----------------------------------------------
+products:
+{
+	_id:
+	product_id:
+	name:
+	price:
+	images: [ , , ]
+	quantity:
+	info:{
+		is_new: ,
+		discount: ,
+		color: ,
+		size: ,
+		material: ,
+		shape: ,
+		style: ,
+		functions: ,
+		features: ,
+		warranty: 
+	}
+	is_active:
+	note: 
+}
+
+
+orders:
+{
+	_id:
+	date:
+	quantiy:
+	total:
+	discount:
+	status: Object[xxx]
+	items:[
+		{
+			product_id:
+			cost_price:
+			sale_price:
+			quantity:
+		},
+		{}
+	]
+	customer:{
+		customer_id:
+		usernamme
+		name:
+		email:
+		phone:
+		shipping_address:
+		{
+			street:
+			district:
+			ward:
+			city:
+		}
+	}
+}

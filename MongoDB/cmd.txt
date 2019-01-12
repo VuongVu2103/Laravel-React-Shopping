@@ -1,0 +1,8 @@
+Run this command to import json file to your MongoDB instance
+
+mongoimport --db [Yours DB name] --collection users --file [Your File Path]\user.json
+mongoimport --db [Yours DB name] --collection brands --file [Your File Path]\brands.json
+mongoimport --db [Yours DB name] --collection customers --file [Your File Path]\customers.json
+mongoimport --db [Yours DB name] --collection status --file [Your File Path]\status.json
+mongoimport --db [Yours DB name] --collection products --file [Your File Path]\products.json
+mongoimport --db [Yours DB name] --collection orders --file [Your File Path]\orders.json

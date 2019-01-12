@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5bd71817c9c05d2670709516"},"brand_id":"MOV","name":"Movado"}
+{"_id":{"$oid":"5bd71837c9c05d2670709517"},"brand_id":"TIS","name":"Tissot"}
+{"_id":{"$oid":"5bd71849c9c05d2670709518"},"brand_id":"CIT","name":"Citizen"}
+{"_id":{"$oid":"5bd71867c9c05d2670709519"},"brand_id":"OME","name":"Omega"}
+{"_id":{"$oid":"5bd71875c9c05d267070951a"},"brand_id":"LON","name":"Longines"}
