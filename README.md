@@ -13,7 +13,7 @@
 
 ### MongoDB 
 
-. Of course you have to configuration MongoDB first . If you don't know anything about it you can check  [MongoDB - Laravel](https://github.com/jenssegers/laravel-mongodb) for more detail.
+. To run this you have to configuration MongoDB first . If you don't know anything about it you can check  [MongoDB - Laravel](https://github.com/jenssegers/laravel-mongodb) for more detail.
 
 . In the MongoDB folder have all file json about products ,user-info , brands ,... 
 
