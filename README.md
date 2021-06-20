@@ -53,16 +53,16 @@
 
 ## To-Do list :
 
-.  User registration => Done
+.  User registration
 
-.  User login => Done
+.  User login
 
-.  Social login => Done (Facebook, Google)
+.  Social login (Facebook, Google)
 
-.  Products => done
+.  Products
 
-.  Admin => done
+.  Admin
 
-.  Cart => done
+.  Cart
 
 
